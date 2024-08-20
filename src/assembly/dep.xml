@@ -12,7 +12,7 @@
         <format>tar.gz</format>
         <format>zip</format>
     </formats>
-    <baseDirectory>/</baseDirectory>
+    <baseDirectory>/mvn-repo-cleaner</baseDirectory>
     <fileSets>
         <fileSet>
             <directory>${project.basedir}/src/assembly/scripts</directory>
